@@ -1,16 +1,31 @@
-## Hi there 👋
+My name is **lu-value**. I'm passionate about [cfx.re](https://cfx.re) development.
 
-<!--
-**lu-value/lu-value** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lu-value&theme=dark&show_icons=true&hide_border=true">
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=lu-value&show_icons=true&hide_border=true">
+</picture>
 
-Here are some ideas to get you started:
+- :pencil2: C / Lua / SQL
+- :package: [Linux](https://www.linux.org/) / [Zed](https://zed.dev/)
+- :video_game: [cfx.re](https://cfx.re) (FiveM / RedM)
+- :thought_balloon: Ask me anything at [Discussions](https://github.com/lu-value/lu-value/discussions/new/choose)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### :sparkles: My followers
+
+<!--START_SECTION:top-followers-->
+<!--END_SECTION:top-followers-->
+
+---
+
+### :bar_chart: Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lu-value&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
