@@ -4,13 +4,8 @@ My name is **Luis MOUTA**. I'm passionate about [cfx.re](https://cfx.re) develop
 - [Linux](https://www.linux.org/) / [Zed](https://zed.dev/)
 - [cfx.re](https://cfx.re) (FiveM / RedM)
 
-FiveM & RedM servers where I worked on code, modding or streaming:
+---
 
-| Server | Platform |
-|--------|----------|
-| [LastCountry](https://lastcountryrp.fr/) | RedM |
-| [FantasticWL](https://fantasticrp.fr/) | FiveM |
-| Flashland | FiveM |
-| Revoxity | FiveM |
-| MarseilleRP | FiveM |
-| [FlashbackFA](https://flashbackfa.fr/) | FiveM |
+### Servers I contributed to
+
+[LastCountry](https://lastcountryrp.fr/) • [FantasticWL](https://fantasticrp.fr/) • Flashland • Revoxity • MarseilleRP • [FlashbackFA](https://flashbackfa.fr/)
