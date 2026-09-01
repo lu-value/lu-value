@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Zed-084CCF?style=flat-square&logo=zedindustries&logoColor=white" alt="Zed">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
 </p>
 
 ---
@@ -19,8 +19,8 @@
 
 Student at [42 Paris](https://42.fr), working through the Common Core in C and C++.
 
-Outside of school I build for [cfx.re](https://cfx.re) — Lua resources and
-server-side tooling for FiveM and RedM.
+Creator of [**OPX//77**](https://github.com/opx77-framework), a Lua framework for
+Cyberpunk 2077 roleplay servers, powering **OPEN//77**.
 
 ### 42 Projects
 
@@ -30,13 +30,10 @@ server-side tooling for FiveM and RedM.
 | [**minitalk**](https://github.com/dop42/minitalk) | Client/server messaging over UNIX signals, using only `SIGUSR1` and `SIGUSR2`. |
 | [**minishell**](https://github.com/dop42/minishell) | A Unix shell in C: pipes, redirections, heredocs, quotes, expansions and built-ins. |
 
-### cfx.re
+### OPX//77
 
-Servers I contributed to:
+A Lua framework built to give developers the tools and flexibility to create
+roleplay experiences on Cyberpunk 2077.
 
-[LastCountry](https://lastcountryrp.fr/) •
-[FantasticWL](https://fantasticrp.fr/) •
-[Flashland](https://flashland.fr/) •
-Revoxity •
-MarseilleRP •
-[FlashbackFA](https://flashbackfa.fr/)
+- [Framework](https://github.com/opx77-framework)
+- [Documentation](https://github.com/opx77-framework/opx77_doc)
